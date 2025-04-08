@@ -5,11 +5,9 @@ import Footer from './components/Footer'
 
 export default function App() {
   return (
-    <div className="app">
-      <Header />
-      <Hero />
-      <Projects />
-      <Footer />
+    <div>
+      <h1>Hello World!</h1>
+      <p>My portfolio coming soon</p>
     </div>
   )
 }
